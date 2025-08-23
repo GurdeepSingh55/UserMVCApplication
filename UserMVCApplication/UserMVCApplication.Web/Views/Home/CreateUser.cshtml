@@ -1,0 +1,40 @@
+﻿@model UserMVCApplication.BLL.Models.UserModel
+<h3>Create User</h3>
+<hr
+
+<form asp-action="CreateUser" method="post">
+    <div class="row">
+        @if (Model.Id != 0)
+        {
+            <input type="hidden" id="hdnUserId" name="Id" value="@Model.Id" />
+            <input type="hidden" id="hdnAddressId" name="AddressId" value="@Model.Address?.Id" />
+            <input type="hidden" id="hdnFullAddress" value="@Model.Address?.FullAddress" />
+            <input type="hidden" id="hdnStateId" value="@Model.Address?.State?.Id" />
+        }
+        <div class="col-md-6">
+            <div class="mb-3">
+                <label asp-for="Name" class="form-label"></label>
+                <input asp-for="Name" class="form-control" required/>
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="FullAddress" class="form-label">Full Address</label>
+                <textarea asp-for="FullAddress" class="form-control" rows="4" cols="50" required></textarea>
+                <span asp-validation-for="FullAddress" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label asp-for="StateId" class="form-label">State</label>
+                <select asp-for="StateId" class="form-select" required>
+                    <option value=""> Select State </option>
+                </select>
+                <span asp-validation-for="StateId" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-success">Save</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </div>
+    </div>
+</form>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/custom/create-user.js"></script>
+}

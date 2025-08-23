@@ -1,0 +1,12 @@
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\bin\Debug\net8.0\UserMVCApplication.DAL.deps.json
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\bin\Debug\net8.0\UserMVCApplication.DAL.dll
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\bin\Debug\net8.0\UserMVCApplication.DAL.pdb
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\obj\Debug\net8.0\UserMVCApplication.DAL.csproj.AssemblyReference.cache
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\obj\Debug\net8.0\UserMVCApplication.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\obj\Debug\net8.0\UserMVCApplication.DAL.AssemblyInfoInputs.cache
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\obj\Debug\net8.0\UserMVCApplication.DAL.AssemblyInfo.cs
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\obj\Debug\net8.0\UserMVCApplication.DAL.csproj.CoreCompileInputs.cache
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\obj\Debug\net8.0\UserMVCApplication.DAL.dll
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\obj\Debug\net8.0\refint\UserMVCApplication.DAL.dll
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\obj\Debug\net8.0\UserMVCApplication.DAL.pdb
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.DAL\obj\Debug\net8.0\ref\UserMVCApplication.DAL.dll

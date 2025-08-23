@@ -1,0 +1,22 @@
+﻿@model UserMVCApplication.BLL.Models.UserModel
+
+<div class="container mt-4">
+    <h3>User Details</h3>
+    <hr />
+
+    <dl class="row">
+        <dt class="col-sm-3">Name</dt>
+        <dd class="col-sm-9">@Model.Name</dd>
+
+        <dt class="col-sm-3">Full Address</dt>
+        <dd class="col-sm-9">@Model.Address?.FullAddress</dd>
+
+        <dt class="col-sm-3">State</dt>
+        <dd class="col-sm-9">@Model.Address?.State?.Name</dd>
+    </dl>
+
+    <div class="mt-3">
+        <a href="/Home/CreateUser?userId=@Model.Id" class="btn btn-primary">Edit</a>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>

@@ -1,0 +1,15 @@
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\bin\Debug\net8.0\UserMVCApplication.BLL.deps.json
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\bin\Debug\net8.0\UserMVCApplication.BLL.dll
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\bin\Debug\net8.0\UserMVCApplication.BLL.pdb
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\bin\Debug\net8.0\UserMVCApplication.DAL.dll
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\bin\Debug\net8.0\UserMVCApplication.DAL.pdb
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\obj\Debug\net8.0\UserMVCApplication.BLL.csproj.AssemblyReference.cache
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\obj\Debug\net8.0\UserMVCApplication.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\obj\Debug\net8.0\UserMVCApplication.BLL.AssemblyInfoInputs.cache
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\obj\Debug\net8.0\UserMVCApplication.BLL.AssemblyInfo.cs
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\obj\Debug\net8.0\UserMVCApplication.BLL.csproj.CoreCompileInputs.cache
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\obj\Debug\net8.0\UserMVCA.81635898.Up2Date
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\obj\Debug\net8.0\UserMVCApplication.BLL.dll
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\obj\Debug\net8.0\refint\UserMVCApplication.BLL.dll
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\obj\Debug\net8.0\UserMVCApplication.BLL.pdb
+D:\Projects\UserMVCApplication\UserMVCApplication\UserMVCApplication.BLL\obj\Debug\net8.0\ref\UserMVCApplication.BLL.dll

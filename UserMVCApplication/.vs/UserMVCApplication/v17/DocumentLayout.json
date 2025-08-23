@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|solutionrelative:usermvcapplication.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.web\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|solutionrelative:usermvcapplication.web\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.web\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|solutionrelative:usermvcapplication.web\\views\\home\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|solutionrelative:usermvcapplication.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|solutionrelative:usermvcapplication.bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.dal\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|solutionrelative:usermvcapplication.dal\\repositories\\addressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.bll\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|solutionrelative:usermvcapplication.bll\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.dal\\irepositories\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|solutionrelative:usermvcapplication.dal\\irepositories\\iaddressrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.dal\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|solutionrelative:usermvcapplication.dal\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.bll\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|solutionrelative:usermvcapplication.bll\\iservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.web\\wwwroot\\js\\custom\\create-user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|solutionrelative:usermvcapplication.web\\wwwroot\\js\\custom\\create-user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.web\\wwwroot\\js\\custom\\users-list.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|solutionrelative:usermvcapplication.web\\wwwroot\\js\\custom\\users-list.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|solutionrelative:usermvcapplication.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.bll\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|solutionrelative:usermvcapplication.bll\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|solutionrelative:usermvcapplication.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|solutionrelative:usermvcapplication.dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.dal\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|solutionrelative:usermvcapplication.dal\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.bll\\services\\stateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|solutionrelative:usermvcapplication.bll\\services\\stateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.dal\\repositories\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|solutionrelative:usermvcapplication.dal\\repositories\\staterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{13C437EA-E9ED-4214-8640-48274D93984B}|UserMVCApplication.Web\\UserMVCApplication.Web.csproj|solutionrelative:usermvcapplication.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.bll\\iservices\\istateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C0C728-B767-4825-BB52-6573A52D7346}|UserMVCApplication.BLL\\UserMVCApplication.BLL.csproj|solutionrelative:usermvcapplication.bll\\iservices\\istateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.dal\\irepositories\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|solutionrelative:usermvcapplication.dal\\irepositories\\istaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.dal\\context\\usermvcapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|solutionrelative:usermvcapplication.dal\\context\\usermvcapplicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|d:\\projects\\usermvcapplication\\usermvcapplication\\usermvcapplication.dal\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D00FBA14-930C-4FD6-967B-1DAA0F5E4B55}|UserMVCApplication.DAL\\UserMVCApplication.DAL.csproj|solutionrelative:usermvcapplication.dal\\entities\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "UserMVCApplication.Web\\Views\\Home\\Details.cshtml",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "UserMVCApplication.Web\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T09:37:58.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UserMVCApplication.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAADwv1EAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:39:45.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserMVCApplication.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UserMVCApplication.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwCkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T07:48:50.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.BLL\\Services\\UserService.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "UserMVCApplication.BLL\\Services\\UserService.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAIwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:53:18.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\IServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.BLL\\IServices\\IUserService.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\IServices\\IUserService.cs",
+              "RelativeToolTip": "UserMVCApplication.BLL\\IServices\\IUserService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:34:01.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAddressRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\IRepositories\\IAddressRepository.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.DAL\\IRepositories\\IAddressRepository.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\IRepositories\\IAddressRepository.cs",
+              "RelativeToolTip": "UserMVCApplication.DAL\\IRepositories\\IAddressRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAArwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:28:19.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddressRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Repositories\\AddressRepository.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.DAL\\Repositories\\AddressRepository.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Repositories\\AddressRepository.cs",
+              "RelativeToolTip": "UserMVCApplication.DAL\\Repositories\\AddressRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T10:23:46.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.DAL\\Entities\\Address.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Entities\\Address.cs",
+              "RelativeToolTip": "UserMVCApplication.DAL\\Entities\\Address.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:05:54.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\Views\\Home\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "UserMVCApplication.Web\\Views\\Home\\CreateUser.cshtml",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\Views\\Home\\CreateUser.cshtml",
+              "RelativeToolTip": "UserMVCApplication.Web\\Views\\Home\\CreateUser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T09:09:24.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.BLL\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "UserMVCApplication.BLL\\Mappings\\MappingProfile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T08:08:13.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.BLL\\Models\\UserModel.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\Models\\UserModel.cs",
+              "RelativeToolTip": "UserMVCApplication.BLL\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T08:19:08.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\Program.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.Web\\Program.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\Program.cs",
+              "RelativeToolTip": "UserMVCApplication.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:54:02.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "UserMVCApplication.DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:13:04.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.DAL\\Entities\\User.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Entities\\User.cs",
+              "RelativeToolTip": "UserMVCApplication.DAL\\Entities\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:05:53.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "users-list.js",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\wwwroot\\js\\custom\\users-list.js",
+              "RelativeDocumentMoniker": "UserMVCApplication.Web\\wwwroot\\js\\custom\\users-list.js",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\wwwroot\\js\\custom\\users-list.js",
+              "RelativeToolTip": "UserMVCApplication.Web\\wwwroot\\js\\custom\\users-list.js",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-22T10:56:30.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "create-user.js",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\wwwroot\\js\\custom\\create-user.js",
+              "RelativeDocumentMoniker": "UserMVCApplication.Web\\wwwroot\\js\\custom\\create-user.js",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\wwwroot\\js\\custom\\create-user.js",
+              "RelativeToolTip": "UserMVCApplication.Web\\wwwroot\\js\\custom\\create-user.js",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-23T09:13:46.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.DAL\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "UserMVCApplication.DAL\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIA/wA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:13:32.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StateService.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\Services\\StateService.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.BLL\\Services\\StateService.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\Services\\StateService.cs",
+              "RelativeToolTip": "UserMVCApplication.BLL\\Services\\StateService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAEwCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:24:44.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StateRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Repositories\\StateRepository.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.DAL\\Repositories\\StateRepository.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Repositories\\StateRepository.cs",
+              "RelativeToolTip": "UserMVCApplication.DAL\\Repositories\\StateRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwBsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:26:54.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStateRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\IRepositories\\IStateRepository.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.DAL\\IRepositories\\IStateRepository.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\IRepositories\\IStateRepository.cs",
+              "RelativeToolTip": "UserMVCApplication.DAL\\IRepositories\\IStateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:27:19.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "UserMVCApplication.Web\\appsettings.json",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.Web\\appsettings.json",
+              "RelativeToolTip": "UserMVCApplication.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T06:48:02.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IStateService.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\IServices\\IStateService.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.BLL\\IServices\\IStateService.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.BLL\\IServices\\IStateService.cs",
+              "RelativeToolTip": "UserMVCApplication.BLL\\IServices\\IStateService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T09:25:11.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserMVCApplicationContext.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Context\\UserMVCApplicationContext.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.DAL\\Context\\UserMVCApplicationContext.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Context\\UserMVCApplicationContext.cs",
+              "RelativeToolTip": "UserMVCApplication.DAL\\Context\\UserMVCApplicationContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAWwAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:19:18.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Entities\\State.cs",
+              "RelativeDocumentMoniker": "UserMVCApplication.DAL\\Entities\\State.cs",
+              "ToolTip": "D:\\Projects\\UserMVCApplication\\UserMVCApplication\\UserMVCApplication.DAL\\Entities\\State.cs",
+              "RelativeToolTip": "UserMVCApplication.DAL\\Entities\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:07:10.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
