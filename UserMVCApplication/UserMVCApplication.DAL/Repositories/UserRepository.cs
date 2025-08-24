@@ -27,7 +27,7 @@ namespace UserMVCApplication.DAL.Repositories
             try
             {
                 return await _context.Users.Include(x => x.Address)
-                    .ThenInclude(x => x.State).ToListAsync();
+                    .ThenInclude(x => x.State).Where(x => x.IsDeleted != true).ToListAsync();
             }
             catch (Exception)
             {
