@@ -1,16 +1,17 @@
 ﻿@model UserMVCApplication.BLL.Models.UserModel
-<h3>Create User</h3>
-<hr
+<h3 id="MainHeader">Create User</h3>
+<hr />
 
 <form asp-action="CreateUser" method="post">
+    @if (Model.Id != 0)
+    {
+        <input type="hidden" id="hdnUserId" name="Id" value="@Model.Id" />
+        <input type="hidden" id="hdnAddressId" name="AddressId" value="@Model.Address?.Id" />
+        <input type="hidden" id="hdnFullAddress" value="@Model.Address?.FullAddress" />
+        <input type="hidden" id="hdnStateId" value="@Model.Address?.State?.Id" />
+    }
     <div class="row">
-        @if (Model.Id != 0)
-        {
-            <input type="hidden" id="hdnUserId" name="Id" value="@Model.Id" />
-            <input type="hidden" id="hdnAddressId" name="AddressId" value="@Model.Address?.Id" />
-            <input type="hidden" id="hdnFullAddress" value="@Model.Address?.FullAddress" />
-            <input type="hidden" id="hdnStateId" value="@Model.Address?.State?.Id" />
-        }
+       
         <div class="col-md-6">
             <div class="mb-3">
                 <label asp-for="Name" class="form-label"></label>

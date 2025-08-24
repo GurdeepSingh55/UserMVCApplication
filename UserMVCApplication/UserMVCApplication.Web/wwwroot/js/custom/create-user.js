@@ -25,5 +25,7 @@
     var userId = $("#hdnUserId").val();
     if (userId && userId !== "0") {
         $("button[type='submit']").text("Update");
+        
+        $("#MainHeader").text("Edit User");
     }
 });
